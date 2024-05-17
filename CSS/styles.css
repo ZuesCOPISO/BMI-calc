@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+.button {
+    margin-top: 20px;
+}
+#results {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.label {
+    text-align: left;
+    width: 120px;
+    display: inline-block;
+}
